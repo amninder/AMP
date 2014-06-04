@@ -2,7 +2,8 @@ AMP
 ===
 
 JMF based Java Audio Player
-Problem Statement: 
+
+<h1>Problem Statement:</h1> 
 The client’s requirement was to create a media player in Java to enhance their delivery of technical education.
 
 Highlights:
